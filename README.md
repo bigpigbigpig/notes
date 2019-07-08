@@ -1,4 +1,4 @@
 # notes
 
-* oracle 
-  * P18完
+* Oracle 
+  * p18完
